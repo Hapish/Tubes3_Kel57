@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [General Information](#general-information)
+* [KMP, BM, and Regex Implementation]
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Overview](#overview)
@@ -35,6 +36,17 @@ In this digital era, data security and access are becoming increasingly importan
 Pattern matching is an important technique in fingerprint identification systems. This technique is used to match the captured fingerprint pattern with the fingerprint pattern registered in the database. The commonly used pattern matching algorithm is Bozorth and Boyer-Moore. This algorithm allows the system to recognize fingerprints quickly and accurately, even if the fingerprint captured is imperfect.
 
 By combining fingerprint identification and pattern matching technology, it is possible to build a secure, reliable, and biometric identification system easy to use. This system can be applied in various fields, such as access control, employee attendance, and identity verification in financial transactions. In this project, we are asked to implement a system that can carry out biometric-based individual identification using fingerprints. The method that will be used to detect fingerprints is Boyer-Moore and Knuth-Morris-Pratt. Apart from that, this system will be linked to an individual's identity through a database so that the hope is to form a system that can recognize complete a person's identity just by using fingerprints.
+
+
+## KMP, BM, and Regex Implementation
+### Knuth-Morris-Pratt
+Blabla
+
+### Boyer-Moore
+Blabla
+
+### Regular Expression
+Blabla
 
 
 ## Technologies Used
