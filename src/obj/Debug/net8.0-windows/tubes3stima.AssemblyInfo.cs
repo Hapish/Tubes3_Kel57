@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tubes3stima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c6fb0e88788326ae1ca00508c7c4fe2635af7a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80c73feeed0e7153b1ec0cf3f250c623b7b5ce3")]
 [assembly: System.Reflection.AssemblyProductAttribute("tubes3stima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tubes3stima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
