@@ -40,16 +40,25 @@ By combining fingerprint identification and pattern matching technology, it is p
 
 ## Algorithm Implementation
 ### Knuth-Morris-Pratt
-The Knuth-Morris-Pratt Algorithm, shortened as the KMP Algorithm, is a string matching algorithm which compares both strings from the front. It uses the Longest Prefix Suffix table (shortened as LPS) to shift the pattern when a mismatch happens in order to avoid having to do multiple unneeded comparisons. This results in more efficiency when comparing both strings.
+The Knuth-Morris-Pratt Algorithm, shortened as the KMP Algorithm, is implemented with the usage of 2 functions which are:
+1. ComputeLPSArray: Creates the Longest Prefix Suffix array to help with the KMP algorithm.
+2. KMPSearch: The main function to do the KMP Algorithm with the help of the LPS array to handle mismatches.
 
 ### Boyer-Moore
-The Boyer-Moore Algorithm, shortened as the BM Algorithm, is a string matching algorithm which compares both strings from the back of the pattern string. It uses the Bad Character Heuristic where it shifts the pattern if there is a mismatch and align the characters between both strings to make a match. If not possible, it shifts the pattern beyond the mismatched character. It can also use the Good Suffix Heuristic where it shifts the pattern based on the matching characters. These results in more efficiency when comparing both strings.
+The Boyer-Moore Algorithm, shortened as the BM Algorithm, is implemented with the usage of 2 functions which are:
+1. BadCharHandler: This preprocesses the bad character table that is basically an array that stores the rightmost occurrence of each character in the pattern.
+2. BMSearch: The main function to do the BM Algorithm by using the bad character table and a shift rule to do the comparisons and make it more efficient.
 
 ### Regular Expression
-Regular Expression, also known as Regex, is a form of expression which is a sequence of characters that makes a search pattern to be used in string matching as well as string manipulation. It can use multiple different components such as literal characters, character classes, quantifier symbols, anchors, groups, and alternations. 
+Regular Expression, also known as Regex, is implemented with the usage of 3 functions which are:
+1. GetName: This gets the name from the database tabels
+2. ConvertWeirdName: This converts the weird "alay" words into its supposed format
+3. ConvertNameifSimilar: This determines if ConvertWeirdName will be used depending on the string
 
 ### Levenshtein Distance
-Levenshtein Distance is a type of variable used as a representation for the difference between two strings. To get the value of the distance itself, it calculates the minimum amount of changes (insertions, deletions, or substitutions) required to transform one string into the other. This creates a quantifiable measurement which is the difference between both strings.
+Levenshtein Distance is implemented with the usage of 2 functions which are:
+1. LevenshteinDistance: Calculates the Levenshtein Distance (the distance between 2 strings)
+2. DifferencePercentage: Calculates the percentage of how similar both strings are
 
 
 ## Technologies Used
