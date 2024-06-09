@@ -48,6 +48,9 @@ The Boyer-Moore Algorithm, shortened as the BM Algorithm, is a string matching a
 ### Regular Expression
 Regular Expression, also known as Regex, is a form of expression which is a sequence of characters that makes a search pattern to be used in string matching as well as string manipulation. It can use multiple different components such as literal characters, character classes, quantifier symbols, anchors, groups, and alternations. 
 
+### Levenshtein Distance
+Levenshtein Distance is a type of variable used as a representation for the difference between two strings. To get the value of the distance itself, it calculates the minimum amount of changes (insertions, deletions, or substitutions) required to transform one string into the other. This creates a quantifiable measurement which is the difference between both strings.
+
 
 ## Technologies Used
 The program was written in C# using Visual Studio and *sqldatabase* for the database tool.
