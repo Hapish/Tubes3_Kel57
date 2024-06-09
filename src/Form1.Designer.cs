@@ -1,4 +1,7 @@
-﻿namespace tubes3stima
+﻿using System.Windows.Forms;
+using System.Drawing;
+
+namespace tubes3stima
 {
     partial class Form1
     {

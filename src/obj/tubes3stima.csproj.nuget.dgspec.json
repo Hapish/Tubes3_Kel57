@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshua\\Source\\Repos\\Hapish\\Tubes3_Kel57\\src\\tubes3stima.csproj": {}
+    "C:\\Users\\joshua\\Documents\\Kuliah\\mainHapish\\Tubes3_Kel57\\src\\tubes3stima.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshua\\Source\\Repos\\Hapish\\Tubes3_Kel57\\src\\tubes3stima.csproj": {
+    "C:\\Users\\joshua\\Documents\\Kuliah\\mainHapish\\Tubes3_Kel57\\src\\tubes3stima.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshua\\Source\\Repos\\Hapish\\Tubes3_Kel57\\src\\tubes3stima.csproj",
+        "projectUniqueName": "C:\\Users\\joshua\\Documents\\Kuliah\\mainHapish\\Tubes3_Kel57\\src\\tubes3stima.csproj",
         "projectName": "tubes3stima",
-        "projectPath": "C:\\Users\\joshua\\Source\\Repos\\Hapish\\Tubes3_Kel57\\src\\tubes3stima.csproj",
+        "projectPath": "C:\\Users\\joshua\\Documents\\Kuliah\\mainHapish\\Tubes3_Kel57\\src\\tubes3stima.csproj",
         "packagesPath": "C:\\Users\\joshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshua\\Source\\Repos\\Hapish\\Tubes3_Kel57\\src\\obj\\",
+        "outputPath": "C:\\Users\\joshua\\Documents\\Kuliah\\mainHapish\\Tubes3_Kel57\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
