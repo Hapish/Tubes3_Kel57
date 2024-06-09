@@ -40,13 +40,13 @@ By combining fingerprint identification and pattern matching technology, it is p
 
 ## Algorithm Implementation
 ### Knuth-Morris-Pratt
-Blabla
+The Knuth-Morris-Pratt Algorithm, shortened as the KMP Algorithm, is a string matching algorithm which compares both strings from the front. It uses the Longest Prefix Suffix table (shortened as LPS) to shift the pattern when a mismatch happens in order to avoid having to do multiple unneeded comparisons. This results in more efficiency when comparing both strings.
 
 ### Boyer-Moore
-Blabla
+The Boyer-Moore Algorithm, shortened as the BM Algorithm, is a string matching algorithm which compares both strings from the back of the pattern string. It uses the Bad Character Heuristic where it shifts the pattern if there is a mismatch and align the characters between both strings to make a match. If not possible, it shifts the pattern beyond the mismatched character. It can also use the Good Suffix Heuristic where it shifts the pattern based on the matching characters. These results in more efficiency when comparing both strings.
 
 ### Regular Expression
-Blabla
+Regular Expression, also known as Regex, is a form of expression which is a sequence of characters that makes a search pattern to be used in string matching as well as string manipulation. It can use multiple different components such as literal characters, character classes, quantifier symbols, anchors, groups, and alternations. 
 
 
 ## Technologies Used
