@@ -65,7 +65,7 @@ The program was written in C# using Visual Studio and *sqldatabase* for the data
 
 
 ## Overview
-![Overview]()
+![Overview](src/img/Overview.jpg)
 
 
 ## Setup
@@ -81,7 +81,7 @@ The program was written in C# using Visual Studio and *sqldatabase* for the data
 
 2. Open the directory in Visual Studio
     
-3. In Solution Explorer, select filename.sln
+3. In Solution Explorer, select tubes3stima.sln
  
 4. Click Start
 
@@ -100,7 +100,7 @@ All the specifications were implemented.
 ## Acknowledgements
 - This project was based on [Spesifikasi Tugas Besar 3 Stima](https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tubes3-Stima-2024.pdf)
 - Thanks to God
-- Thanks to Mrs. Masayu Leylia Khodra, Mrs. Nur Ulfa Maulidevi, and Mr. Rinaldi as our lecturers
+- Thanks to Mr Rila Mandala, Mrs. Nur Ulfa Maulidevi, and Mr. Rinaldi as our lecturers
 - Thanks to academic assistants
 - This project was created to fulfill our Big Project for IF2211 Algorithm Strategies
 
