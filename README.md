@@ -13,7 +13,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Library](#library)
 
 
 ## Introduction
@@ -80,7 +79,7 @@ The program was written in C# using Visual Studio and *sqldatabase* for the data
 ## Setup
 ### Installation
 - Download and install [Visual Studio](https://visualstudio.microsoft.com/vs/) 
-- Install the whole modules and [libraries](#library) used in the source code
+- Install the whole modules and libraries used in the source code
 - Download the whole folders and files in this repository or do clone the repository
 
 ### Compilation 
@@ -90,7 +89,7 @@ The program was written in C# using Visual Studio and *sqldatabase* for the data
 
 2. Open the directory in Visual Studio
     
-3. In Solution Explorer, select tubes3stima.sln
+3. In Solution Explorer, select TubeStimaTest.sln
  
 4. Click Start
 
@@ -112,6 +111,3 @@ All the specifications were implemented.
 - Thanks to Mr Rila Mandala, Mrs. Nur Ulfa Maulidevi, and Mr. Rinaldi as our lecturers
 - Thanks to academic assistants
 - This project was created to fulfill our Big Project for IF2211 Algorithm Strategies
-
-## Library
-* 
